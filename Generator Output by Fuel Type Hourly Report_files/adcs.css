@@ -1,0 +1,233 @@
+.report  { font-family: Tahoma, Arial, Helvetica;}
+
+.report table 	{ 	border: 2px solid #000; 
+						background-color: #fff;
+					}
+.report td  	{ 	font-family: Tahoma, Arial, Helvetica;
+					 
+				 }
+
+.reportHeader  		{ font-family: Tahoma, Arial, Helvetica;}
+.reportHeader h1  	{ 	color: #036; 
+					font-weight: bold; 
+					font-size: 15px; 
+					line-height: 19px; 
+					margin-bottom: 0px; 
+					padding-bottom: 0px;}
+
+.reportHeader table.subtable 	{	border: 0px solid #000; 
+				background-color: #fff;
+				border-collapse: collapse;
+				cell-spacing: 3px;
+				font-weight: bold; 
+				font-size: 11px; 
+			}
+.report th  	{ 	background-color: #dddddd; 
+				 }
+.report td.subhead 	{ 	font-size: 14px; 
+						margin-top: 4px; 
+						padding-bottom: 3px}
+.report tr#1		{	background-color: #eeeeee; }
+.report table		{	border-collapse: collapse;}				
+.report td.c1data 	{ 	color: black; 
+						font-size: 11px;
+						padding: 1px 2px 1px 2px;
+						height: 21px;
+						}
+.report td.c2data 	{ 	color: black; 
+						font-size: 11px;
+						padding: 1px 2px 1px 2px;
+						height: 21px;
+						border-top-width: 2px;
+						}
+.report td.c3data 	{ 	color: black; 
+						font-size: 10px;
+						padding: 1px 1px 1px 1px;
+						height: 20px;
+						}
+.report td.c4data 	{ 	color: black; 
+						font-size: 10px;
+						padding: 1px 1px 1px 1px;
+						height: 20px;
+						border-top-width: 2px;
+						}
+
+.report div.c1head      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 15px; 
+							background-color: #dddddd; 
+							padding: 2px 1px 1px }
+.report div.c2head      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 12px; 
+							background-color: #dddddd; 
+							padding: 2px 1px 1px }
+.report div.c3head      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 15px; 
+							background-color: #cc9; 
+							padding: 2px 1px 1px }
+.report div.c4head      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 12px; 
+							background-color: #cc9; 
+							padding: 2px 1px 1px }
+.report div.c5head      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 29px; 
+							background-color: #cc9; 
+							padding: 2px 1px 1px }
+
+.report div.c1data       { 	color: black; 
+							font-size: 9px; 
+							padding: 2px 1px 1px; }
+.report div.c6head      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 12px; 
+							padding: 2px 1px 1px; }
+.balloon	{	BORDER-RIGHT: NAVY THIN SOLID;
+				PADDING-RIGHT: 1PX;
+				BORDER-TOP: NAVY THIN SOLID;
+				PADDING-LEFT: 1PX;
+				PADDING-BOTTOM: 1PX;
+				BORDER-LEFT: NAVY THIN SOLID;
+				PADDING-TOP: 1PX;
+				BORDER-BOTTOM: NAVY THIN SOLID;
+				POSITION: ABSOLUTE;
+				BACKGROUND-COLOR: #eeeeee;
+				COLOR: NAVY;
+				FONT-SIZE: 12PX;}
+.flowBalloon	{	PADDING-RIGHT: 0;
+					PADDING-LEFT: 0;
+					PADDING-BOTTOM: 0;
+					PADDING-TOP: 0;
+					POSITION: ABSOLUTE;
+					BACKGROUND-COLOR: #eeeeee;;
+					COLOR: navy;}
+.isTip {text-decoration:none;
+    COLOR: navy;}
+
+.report td.c1datac1 	{ 	color: black; 
+									font-size: 11px;
+									padding: 1px 2px 1px 2px;
+									height: 21px;
+									background-color: white;
+						}
+.report td.c1datac2	{ 	color: black; 
+											font-size: 11px;
+											padding: 1px 2px 1px 2px;
+											height: 21px;
+											background-color:#eeeeee;
+										}
+.report td.c2datac1 	{ 	color: black; 
+									font-size: 11px;
+									padding: 1px 2px 1px 2px;
+									height: 21px;
+									border-top-width: 2px;
+									background-color: white;
+								}
+.report td.c2datac2 	{ 	color: black; 
+											font-size: 11px;
+											padding: 1px 2px 1px 2px;
+											height: 21px;
+											border-top-width: 2px;
+											background-color: #eeeeee;
+										}
+.report td.c2coldatac1 	{ 	color: black; 
+									font-size: 11px;
+									padding: 1px 2px 1px 2px;
+									height: 21px;
+									border-left-width: 2px;
+									background-color: white;
+								}
+.report td.c2coldatac2 	{ 	color: black; 
+											font-size: 11px;
+											padding: 1px 2px 1px 2px;
+											height: 21px;
+											border-left-width: 2px;
+											background-color: #eeeeee;
+										}
+.report td.c3datac1 	{ 	color: black; 
+									font-size: 10px;
+									padding: 1px 1px 1px 1px;
+									height: 20px;
+									background-color: white;
+								}
+.report td.c3datac2 	{ 	color: black; 
+											font-size: 10px;
+											padding: 1px 1px 1px 1px;
+											height: 20px;
+											background-color: #eeeeee;
+										}
+.report td.c4datac1 	{ 	color: black; 
+									font-size: 10px;
+									padding: 1px 1px 1px 1px;
+									height: 20px;
+									border-top-width: 2px;
+									background-color: white;
+								}
+.report td.c4datac2 	{ 	color: black; 
+											font-size: 10px;
+											padding: 1px 1px 1px 1px;
+											height: 20px;
+											border-top-width: 2px;
+											background-color:#eeeeee;
+										}
+.report td.c5datac1 	{ 	color: black; 
+									font-weight: bold;
+									font-size: 9px;
+									padding: 1px 2px 1px 2px;
+									height: 21px;
+									border-top-width: 2px;
+									background-color: white;
+								}
+.report td.c6datac2 	{ 	color: black; 
+											font-size: 10px;
+											padding: 1px 1px 1px 1px;
+											height: 20px;
+											border-top-width: 3px;
+											background-color:#eeeeee;
+										}
+.report td.c7datac2 	{ 	color: black; 
+											font-size: 11px;
+											padding: 1px 2px 1px 2px;
+											height: 21px;
+											border-top-width: 3px;
+											background-color: #eeeeee;
+										}
+.report td.c1headc1      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 15px; 
+							background-color: #dddddd; 
+							padding: 2px 1px 1px }
+.report td.c2headc1      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 15px; 
+							background-color: white; 
+							padding: 2px 1px 1px }
+.report td.c2headc2      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 15px; 
+							background-color: #eeeeee; 
+							padding: 2px 1px 1px }
+.report div.c2headc1      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 12px; 
+							padding: 2px 1px 1px; }
+.report td.c1colheadc1      { 	color: black; 
+							font-weight: bold; 
+							font-size: 9px; 
+							line-height: 15px; 
+							background-color: #dddddd; 
+							border-left-width: 2px;
+							padding: 2px 1px 1px }
